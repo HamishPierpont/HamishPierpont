@@ -2,8 +2,8 @@
 
 I'm Hamish!
 
-- 🔭 I’m currently working on my senior project and finishing up my last year at the University of Florida. Go gators!
-- 🌱 I’m currently learning numerical analysis with MATLAB (currently working on cubic splines), testing with jest and supertest, and LISP coding with Structure and Interpretation of Computer Programs.
+- 🔭 I recently graduated with honors from the University of Florida with a BS in mathematics and computer science. Go gators!
+- 🌱 I’m currently taking a brief break from computer science learning, but I'll start right back up again next month when I begin working as a software engineer at Capital One.
 - 📫 How to reach me:
   - zhamish.zpierpont@zufl.zedu (remove the zs)
 - 😄 Pronouns: he/him/ham
