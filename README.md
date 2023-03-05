@@ -2,9 +2,9 @@
 
 I'm Hamish!
 
-- 🔭 I recently graduated with honors from the University of Florida with a BS in mathematics and computer science. Go gators!
-- 🌱 I’m currently taking a brief break from computer science learning, but I'll start right back up again next month when I begin working as a software engineer at Capital One.
+- 🔭 I recently graduated with honors from the University of Florida with a BS in mathematics and computer science.
+- 🌱 Now I work as a software engineer at Capital One in New York.
 - 📫 How to reach me:
-  - zhamish.zpierpont@zufl.zedu (remove the zs)
-- 😄 Pronouns: he/him/ham
-- ⚡ Fun fact: I'm the second programmer in my family! My dad programmed in grad school on punch cards.
+  - zhamishzwiliamzpierpontz@zgmail.com (remove the zs)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I am one of two Hamishes at my company, and I have a near-constant desire to challenge the other to a duel
