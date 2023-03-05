@@ -2,8 +2,8 @@
 
 I'm Hamish!
 
-- 🔭 I recently graduated with honors from the University of Florida with a BS in mathematics and computer science.
-- 🌱 Now I work as a software engineer at Capital One in New York.
+- 🐊 I recently graduated with honors from the University of Florida with a BS in mathematics and computer science.
+- 🏗️ Now I work as a software engineer at Capital One in New York.
 - 📫 How to reach me:
   - zhamishzwiliamzpierpontz@zgmail.com (remove the zs)
 - 😄 Pronouns: he/him/his
